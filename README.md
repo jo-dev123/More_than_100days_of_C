@@ -1,5 +1,3 @@
-# More_than_100days_of_C
-Carrying out Exercises, Projects and Algorithms on C continuously
 # More than 100 days of C
 
 Hi there, I am challenging myself to continiously code in C. This would  include:
